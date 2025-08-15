@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @kxvdvkr
+- 👋 Hi, I’m Keshav Divakar
 - 👀 I’m interested in Tomfooleries
-- 🌱 I’m currently learning HTML and Python
 - 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me Instagram - kxvdvkr
+- 📫 Instagram - kxvdvkr
 
 <!---
 kxvdvkr/kxvdvkr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
